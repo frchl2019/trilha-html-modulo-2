@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clínica Médica</title>
+</head>
+
+<body>
+
+    <!-- Menu de Navegação -->
+    <nav>
+        <ul>
+            <li><a href="index.html">Página Principal</a></li>
+            <li><a href="sobre.html">Sobre a Clínica</a></li>
+            <li><a href="horario.html">Horário de Atendimento</a></li>
+            <li><a href="contato.html">Contato</a></li>
+        </ul>
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <img src="medico.jpeg" alt="Imagem de cabeçalho">
+    </header>
+
+    <!-- Conteúdo da Página -->
+    <div id="content">
+        <h1>Página Principal</h1>
+        <p>Bem-vindo à Clínica Médica! Somos especializados em pediátria. Oferecemos atendimento de qualidade
+            com profissionais capacitados e estrutura moderna.</p>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>Entre em contato:</p>
+        <p>Telefone: (XX) XXXX-XXXX | WhatsApp: (XX) XXXXX-XXXX</p>
+        <p>Endereço: Rua XXXXXXXXX, Número XX, Cidade, Estado, CEP XXXXX-XXX</p>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1dXXXXX!2dXXXXXXXXX!3dXXXXXXXX!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zXXXXXXXXXXXXXXXXXXXXXXXXXXX!5e0!3m2!1spt-BR!2sbr!4vXXXXXXX!5m2!1spt-BR!2sbr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </footer>
+
+</body>
+
+</html>
